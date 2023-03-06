@@ -1,0 +1,141 @@
+body{
+    padding:0px 120px 120px 120px;
+    background-color: ghostwhite;
+    font-family: 'Times New Roman', Times, serif;
+}
+.content{
+margin-left: 5%;
+margin-right: 5%;
+font-size: larger;
+}
+.homepage{
+    margin-top: -2%;
+    margin-left: 2%;
+}
+button{
+    border: none;
+padding: 10px 30px;
+color:white;
+font-weight: bold;
+background-color: black;
+}
+.logo{
+    font-weight: bold;
+}
+nav{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 3px 0;
+}
+nav ul{
+    list-style-type: none;
+    text-align: right;
+    width: 100%;
+    padding-right: 30px;
+}
+nav ul li{
+    display: inline-block;
+    margin: 10px 10px;
+}
+#heading1{
+    font-size: 80px;
+    margin-top: -1%;
+}
+#image1{
+    margin-left: 30%;
+    margin-top: -15%;
+}
+#image2{
+    margin-top: -10%;
+ }
+#button1{
+border: none;
+padding: 10px 30px;
+color:white;
+font-weight: bold;
+background-color: black;
+}
+.image34{
+    margin-left: 30%;
+    margin-top: -20%;
+}
+#heading2{
+text-align: center;
+}
+#under1{
+margin-left: 55%;
+margin-top: -25% ;
+}
+#under2{
+margin-left: 50%;
+margin-top: -15%;
+}
+#above{
+    margin-top: -25%;
+    margin-left: 60%;
+}
+#heading3{
+font-size: 60px;
+}
+.interior{
+    text-align: center;
+    font-size: 70px;
+}
+ .collection{
+    text-align: center;
+    font-size: 70px;
+ }
+.card1{
+    border-radius: 2px;
+    background-color: white;
+    width: 250px;
+    height: 270px;
+    text-align: center;
+}
+.card2{
+    border-radius: 2px;
+    background-color: white;
+    width: 250px;
+    height: 250px;
+    text-align: center;
+}
+.card3{
+    border-radius: 2px;
+    background-color: white;
+    width: 250px;
+    height: 250px;
+    text-align: center;
+}
+.container{
+    max-width: 1000px;
+    margin: auto;
+}
+.footer{
+    padding:10px;
+    margin-top: 20%;
+}
+.row{
+    display: flex;
+    flex-wrap: nowrap;
+    list-style-type: none;
+}
+.footer-col{
+    width: 25%;
+    padding: 0 15px;
+}
+.subscribe{
+    margin-top: -20%;
+    margin-left: 5%;
+}
+#button5{
+    border: none;
+    padding: 3px 3px;
+    color:white;
+    font-weight: bold;
+    background-color: black;
+}
+input{
+    padding: 4px 20px;
+}
